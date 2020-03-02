@@ -1,0 +1,17 @@
+type: code
+files:
+- name: task.py
+  visible: true
+  learner_created: false
+- name: change_name.py
+  visible: true
+  learner_created: true
+- name: e.py
+  visible: true
+  learner_created: true
+- name: scope_test.py
+  visible: true
+  learner_created: true
+feedback_link: https://hyperskill.org/learn/step/5907
+status: Solved
+record: -1
