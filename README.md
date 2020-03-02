@@ -2,6 +2,9 @@
 
 This repo contains the first 90+ projects and tasks required to build a functioning coffee machine.
 
+# Licence
+You are absolutely not allowed to use or copy any of these solutions for completing tasks on JetBrains or elsewhere.
+
 ### Topics covered and tasks performed were:
 
 * PEP 8
