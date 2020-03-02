@@ -5,7 +5,9 @@ This repo contains the first 90+ projects and tasks required to build a function
 **All of these scripts are 100% my own work.**
 
 # Licence
-You are absolutely not allowed to use or copy any of these solutions for completing tasks on JetBrains or elsewhere.
+Please see the license file.
+
+**NB!** *Whilst I cannot stop you, I strongly discourage you from copying or using any of my code to complete tasks on JetBrains or elsewhere, as doing so is incredibly disrespectful and dishonest.*
 
 ### Topics covered and tasks performed were:
 
