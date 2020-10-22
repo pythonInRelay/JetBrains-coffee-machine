@@ -7,7 +7,7 @@ This repo contains the first 100+ projects and tasks required to build a functio
 # Licence
 Please see the license file.
 
-**NB!** *Whilst I cannot stop you, I strongly discourage you from copying or using any of my code to complete tasks on JetBrains or elsewhere, as doing so is incredibly disrespectful and dishonest.*
+**NB!** *Whilst I cannot stop you, I strongly discourage you from copying or using any of my code to complete tasks on JetBrains or elsewhere, as doing so is incredibly disrespectful, dishonest and defeats the purpose of the coding challenges.*
 
 ### Topics covered and tasks performed were:
 
